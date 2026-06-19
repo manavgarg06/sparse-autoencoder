@@ -100,6 +100,11 @@ generate_with_steering(prompt, hf_model, tokenizer, sae, target_feature=5021, st
 
 ```
 
+## Contact
+
+**Author:** manavgarg06
+**Contact:** 7000267363 | [GitHub](https://github.com/manavgarg06)
+
 ## License
 
 MIT License. See LICENSE for details.
