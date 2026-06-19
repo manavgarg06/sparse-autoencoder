@@ -102,7 +102,7 @@ generate_with_steering(prompt, hf_model, tokenizer, sae, target_feature=5021, st
 
 ## Contact
 
-**Author:** manavgarg06
+**Author:** Manav Garg
 **Contact:** 7000267363 | [GitHub](https://github.com/manavgarg06)
 
 ## License
